@@ -3,7 +3,7 @@
 🎓 B.Tech Student
 📊 Aspiring Data Analyst
 🤖 AI & GenAI Developer
-💻 Python | FastAPI | LangGraph | React
+💻 Python | FastAPI | LangGraph | langchain | RAG
 🇮🇳 India
 
 ---
