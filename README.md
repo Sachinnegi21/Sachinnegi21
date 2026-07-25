@@ -71,7 +71,7 @@ Bio
 
 AI Developer | Data Analyst | Python Developer
 
-Building intelligent AI systems using FastAPI, LangGraph, Ollama, and React.
+Building intelligent AI systems using FastAPI, langchain, LangGraph, ollama, and Rag.
 
 Interested in Data Analytics, Machine Learning, LLMs, and Open Source.
 
