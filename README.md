@@ -29,6 +29,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sachinnegi21&layout=compact&theme=tokyonight)
 
 
+![](https://komarev.com/ghpvc/?username=Sachinnegi21)
 ## Tech Stack
 
 Python
@@ -39,9 +40,7 @@ LangChain
 
 LangGraph
 
-React
-
-SQL
+streamlit
 
 MySQL
 
@@ -62,10 +61,12 @@ Ollama
 FAISS
 
 ChromaDB
+
 ![](https://komarev.com/ghpvc/?username=Sachinnegi21)
+
 ![Snake](https://raw.githubusercontent.com/Sachinnegi21/Sachinnegi21/output/github-contribution-grid-snake.svg)
 
-Professional Bio
+Bio
 
 AI Developer | Data Analyst | Python Developer
 
