@@ -28,6 +28,49 @@
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sachinnegi21&layout=compact&theme=tokyonight)
 
-## 🐍 Contribution Snake
 
+## Tech Stack
+
+Python
+
+FastAPI
+
+LangChain
+
+LangGraph
+
+React
+
+SQL
+
+MySQL
+
+Pandas
+
+NumPy
+
+Power BI
+
+Docker
+
+Git
+
+GitHub
+
+Ollama
+
+FAISS
+
+ChromaDB
+![](https://komarev.com/ghpvc/?username=Sachinnegi21)
 ![Snake](https://raw.githubusercontent.com/Sachinnegi21/Sachinnegi21/output/github-contribution-grid-snake.svg)
+
+Professional Bio
+
+AI Developer | Data Analyst | Python Developer
+
+Building intelligent AI systems using FastAPI, LangGraph, Ollama, and React.
+
+Interested in Data Analytics, Machine Learning, LLMs, and Open Source.
+
+LinkedIn : https://www.linkedin.com/in/sachin-negi-414b1b2b7/
