@@ -30,6 +30,7 @@
 
 
 ![](https://komarev.com/ghpvc/?username=Sachinnegi21)
+
 ## Tech Stack
 
 Python
@@ -62,7 +63,7 @@ FAISS
 
 ChromaDB
 
-![](https://komarev.com/ghpvc/?username=Sachinnegi21)
+
 
 ![Snake](https://raw.githubusercontent.com/Sachinnegi21/Sachinnegi21/output/github-contribution-grid-snake.svg)
 
